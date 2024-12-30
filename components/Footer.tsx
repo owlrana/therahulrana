@@ -14,7 +14,6 @@ const Footer = () => {
 					className="w-full h-full opacity-50 "
 				/>
 			</div>
-
 			<div className="flex flex-col items-center">
 				<h1 className="heading lg:max-w-[45vw]">
 					Helping the
